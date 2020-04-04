@@ -25,6 +25,6 @@ spring:
 #mybatis:
 #  mapper-locations: classpath*:/mapper/*Mapper.xml
 
-env: 2020
+env: 2021
 
 
